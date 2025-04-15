@@ -27,7 +27,7 @@ To explore, visualize, and extract preliminary insights about air quality, focus
 
 Some plots included in the analysis:
 
-![PM10 and PM2.5 Particulate Matter Graph](figure_example.PNG)
+![PM10 and PM2.5 Particulate Matter Graph](figure_example.png)
 
 ---
 
